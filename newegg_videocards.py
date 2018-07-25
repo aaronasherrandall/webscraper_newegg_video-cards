@@ -1,5 +1,3 @@
-#open python in anaconda at C:\Users\USER\Anaconda3
-
 from urllib.request import urlopen as uReq
 from bs4 import BeautifulSoup as soup
 
